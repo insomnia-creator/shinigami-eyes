@@ -1,21 +1,21 @@
 body {
-   --ShinigamiEyesTFriendly: #77B91E;
-   --ShinigamiEyesTransphobic: #991515;
+   --ShinigamiEyesTFriendly: #991515;
+   --ShinigamiEyesTransphobic: #77B91E;
 }
 
 .shinigami-eyes-theme-green-red-max {
-   --ShinigamiEyesTFriendly: #00FF00;
-   --ShinigamiEyesTransphobic: #FF0000;
+   --ShinigamiEyesTFriendly: #FF0000;
+   --ShinigamiEyesTransphobic: #00FF00;
 }
 
 .shinigami-eyes-theme-purple-yellow {
-   --ShinigamiEyesTFriendly: rgb(153, 0, 255);
-   --ShinigamiEyesTransphobic: rgb(179, 152, 0);
+   --ShinigamiEyesTFriendly: rgb(179, 152, 0);
+   --ShinigamiEyesTransphobic: rgb(153, 0, 255);
 }
 
 .shinigami-eyes-theme-cyan-orange {
-   --ShinigamiEyesTFriendly: rgb(98, 161, 197);
-   --ShinigamiEyesTransphobic: #FB6A4A;
+   --ShinigamiEyesTFriendly: #FB6A4A;
+   --ShinigamiEyesTransphobic: rgb(98, 161, 197);
 }
 
 .assigned-label-transphobic, a.assigned-label-transphobic { color: var(--ShinigamiEyesTransphobic) !important; }
